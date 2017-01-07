@@ -1,14 +1,23 @@
 {
   "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple React, Webpack, Babel boilerplate.",
   "main": "index.js",
   "scripts": {
     "start": "webpack -d --watch",
     "build" : "webpack -p"
   },
   "author": "Ali Nazari",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anazari/ReactBoilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anazari/ReactBoilerplate/issues"
+  },
+  "homepage": "alinazari.co"
+},
   "dependencies": {
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
