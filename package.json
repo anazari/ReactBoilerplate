@@ -16,8 +16,8 @@
   "bugs": {
     "url": "https://github.com/anazari/ReactBoilerplate/issues"
   },
-  "homepage": "alinazari.co"
-},
+  "homepage": "alinazari.co",
+  
   "dependencies": {
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
